@@ -29,3 +29,9 @@ docker run --volumes-from=vtest busybox cat /foo/testing.txt
 hello docker volume
 
 http://container-solutions.com/understanding-volumes-docker/
+
+Another solution for sharing data over bittorrent is
+
+https://jaxenter.com/how-to-share-docker-volumes-across-hosts-119602.html
+
+
