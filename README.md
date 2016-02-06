@@ -27,3 +27,5 @@ and to read...
 
 docker run --volumes-from=vtest busybox cat /foo/testing.txt
 hello docker volume
+
+http://container-solutions.com/understanding-volumes-docker/
